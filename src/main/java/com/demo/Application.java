@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Hello World!
  *
  */
+//定义为springbootApplication
 @SpringBootApplication
 public class Application {
 
